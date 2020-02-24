@@ -6,5 +6,5 @@
 
     > Team Mates
         * [Nitika Kamboj](https://github.com/nitika-kamboj)
-        <hr>
+        <br>
         * [Samar Srivastava](https://github.com/samacker77)
