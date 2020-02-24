@@ -4,7 +4,7 @@
 
 * Team Name *DaVinciCode*:
 
-    > Team Mates
+    > Team Mates<br>
         * [Nitika Kamboj](https://github.com/nitika-kamboj)
         <br>
         * [Samar Srivastava](https://github.com/samacker77)
